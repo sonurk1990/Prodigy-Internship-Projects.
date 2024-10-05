@@ -26,6 +26,8 @@ Visualization: Key population growth trends were visualized over the past 50 yea
 Prediction: The best model achieved an accuracy of XX% in predicting future population growth.
 Future Work
 Incorporate more economic indicators (e.g., GDP, birth rate) to enhance the model.
+
+
 Task 2: Titanic Survival Prediction
 Project Title: Titanic Survival Prediction
 
@@ -52,6 +54,8 @@ Accuracy: The Random Forest model achieved an accuracy of XX%.
 Key Insights: Gender and passenger class were the most significant predictors of survival.
 Future Work
 Implement ensemble models (e.g., Gradient Boosting) to improve prediction accuracy.
+
+
 Task 3: Bank Marketing Campaign Analysis
 Project Title: Bank Marketing Campaign Analysis
 
@@ -78,6 +82,9 @@ Accuracy: The best performing model achieved an accuracy of XX%.
 Key Insights: Factors such as age, previous campaign outcomes, and call duration significantly impacted campaign success.
 Future Work
 Implement advanced models like XGBoost to improve campaign success predictions.
+
+
+
 Task 4: Twitter Sentiment Analysis
 Project Title: Twitter Sentiment Analysis
 
@@ -104,6 +111,9 @@ Accuracy: The SVM model achieved an accuracy of XX%.
 Key Insights: Most tweets with negative sentiment were short and direct.
 Future Work
 Experiment with more complex deep learning models (e.g., Transformers).
+
+
+
 Task 5: U.S. Traffic Accident Analysis
 Project Title: U.S. Traffic Accident Analysis
 
