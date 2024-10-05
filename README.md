@@ -1,5 +1,5 @@
 # Prodigy-Internship-Projects.
-Task 1: Population Data Analysis
+#Task 1: Population Data Analysis
 Project Title: Global Population Data Analysis
 
 Overview
@@ -28,7 +28,7 @@ Future Work
 Incorporate more economic indicators (e.g., GDP, birth rate) to enhance the model.
 
 
-Task 2: Titanic Survival Prediction
+# Task 2: Titanic Survival Prediction
 Project Title: Titanic Survival Prediction
 
 Overview
@@ -56,7 +56,7 @@ Future Work
 Implement ensemble models (e.g., Gradient Boosting) to improve prediction accuracy.
 
 
-Task 3: Bank Marketing Campaign Analysis
+# Task 3: Bank Marketing Campaign Analysis
 Project Title: Bank Marketing Campaign Analysis
 
 Overview
@@ -85,7 +85,7 @@ Implement advanced models like XGBoost to improve campaign success predictions.
 
 
 
-Task 4: Twitter Sentiment Analysis
+# Task 4: Twitter Sentiment Analysis
 Project Title: Twitter Sentiment Analysis
 
 Overview
@@ -114,7 +114,7 @@ Experiment with more complex deep learning models (e.g., Transformers).
 
 
 
-Task 5: U.S. Traffic Accident Analysis
+# Task 5: U.S. Traffic Accident Analysis
 Project Title: U.S. Traffic Accident Analysis
 
 Overview
